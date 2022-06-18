@@ -198,9 +198,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\T H E ONE TECHNOLOGIES\\WebApiPractice16AprilSaturday\\Practice_18-06-22\\thirdvideo\\thirdvideo\\thirdvideo.csproj",
-      "projectName": "thirdvideo",
-      "projectPath": "E:\\T H E ONE TECHNOLOGIES\\WebApiPractice16AprilSaturday\\Practice_18-06-22\\thirdvideo\\thirdvideo\\thirdvideo.csproj",
+      "projectUniqueName": "E:\\T H E ONE TECHNOLOGIES\\WebApiPractice16AprilSaturday\\Practice_18-06-22\\thirdvideo\\thirdvideo\\my-books.csproj",
+      "projectName": "my-books",
+      "projectPath": "E:\\T H E ONE TECHNOLOGIES\\WebApiPractice16AprilSaturday\\Practice_18-06-22\\thirdvideo\\thirdvideo\\my-books.csproj",
       "packagesPath": "C:\\Users\\Mukul Sharma\\.nuget\\packages\\",
       "outputPath": "E:\\T H E ONE TECHNOLOGIES\\WebApiPractice16AprilSaturday\\Practice_18-06-22\\thirdvideo\\thirdvideo\\obj\\",
       "projectStyle": "PackageReference",
